@@ -13,7 +13,7 @@ function Gallery() {
                             <img src={e} className="card-img-top" alt="card-img-top" />
                         </div>
                     )
-                })}
+                })} 
             </div>
         </div>
     )
